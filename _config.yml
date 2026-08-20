@@ -1,0 +1,43 @@
+# Site settings
+title: Tech Notes
+description: Daily notes and deep dives on cloud infra, ML systems, and distributed computing
+baseurl: "/tech-notes"       # repo name, with leading slash, no trailing slash
+url: "https://yourusername.github.io"  # your GitHub Pages root URL
+
+# Author info (optional, but nice for footer/about)
+author: Shubhasri Vanam
+github_username: shubhasrivanam
+
+# Theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Minima theme options
+minima:
+  skin: dark              # or 'classic', 'auto', 'solarized' — pick your vibe
+  social_links:
+    - platform: github
+      user_url: "https://github.com/shubhasrivanam"
+    - platform: linkedin
+      user_url: "https://linkedin.com/in/shubhasrivanam"
+
+# Pagination (shows N posts per page instead of all at once)
+paginate: 10
+paginate_path: "/page:num/"
+
+# Exclude from processing (keeps build clean)
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Defaults (auto-applies to every post, saves you retyping in front matter)
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
