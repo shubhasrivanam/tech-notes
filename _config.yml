@@ -2,7 +2,7 @@
 title: Tech Notes
 description: Daily notes and deep dives on cloud infra, ML systems, and distributed computing
 baseurl: "/tech-notes"       # repo name, with leading slash, no trailing slash
-url: "https://yourusername.github.io"  # your GitHub Pages root URL
+url: "https://shubhasrivanam.github.io"  # your GitHub Pages root URL
 
 # Author info (optional, but nice for footer/about)
 author: Shubhasri Vanam
