@@ -17,7 +17,7 @@ permalink: /:year/:month/:day/:title/
 
 # Minima theme options
 minima:
-  skin: dark              # or 'classic', 'auto', 'solarized' — pick your vibe
+  skin: auto              # or 'classic', 'auto', 'solarized' — pick your vibe
   social_links:
     - platform: github
       user_url: "https://github.com/shubhasrivanam"
