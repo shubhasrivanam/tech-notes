@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Tech Notes
+title: Shubha's Notes - Tech
 ---

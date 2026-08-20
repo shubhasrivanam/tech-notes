@@ -1,8 +1,8 @@
 # Site settings
-title: Tech Notes
-description: Daily notes and deep dives on cloud infra, ML systems, and distributed computing
-baseurl: "/tech-notes"       # repo name, with leading slash, no trailing slash
-url: "https://shubhasrivanam.github.io"  # your GitHub Pages root URL
+title: Shubha's Tech Notes
+description: Daily notes on frequently used and heard tech things
+baseurl: "/tech-notes" 
+url: "https://shubhasrivanam.github.io"
 
 # Author info (optional, but nice for footer/about)
 author: Shubhasri Vanam
